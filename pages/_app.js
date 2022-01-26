@@ -1,4 +1,5 @@
 import { createGlobalStyle, ThemeProvider } from 'styled-components'
+import { Box, Button, Text, TextField, Image } from '@skynexui/components';
 
 const GlobalStyle = createGlobalStyle`
   body {
